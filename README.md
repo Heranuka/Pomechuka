@@ -8,8 +8,8 @@
 - 🔭 Работаю над pet-проектами на Go, использую best practices и современные архитектурные подходы  
 - 🌱 Изучаю микросервисы, Docker, PostgreSQL, REST API, gRPC, Kafka  
 - 💬 Готов поделиться опытом по Go, Gin, PostgreSQL, Docker, JWT  
-- 📄 [Моё резюме (PDF)](/heranuka.github.io)  
-- 📬 Связаться: [Telegram](https://t.me/@cazymo) | [Почта](mailto:retimixa@gmail.com)
+- 📄 [Моё резюме (PDF)](https://heranuka.github.io/)  
+- 📬 Связаться: [Telegram](https://t.me/Сazymo) | [Почта](mailto:retimixa@gmail.com)
 
 ---
 
