@@ -29,37 +29,14 @@
 
 ---
 
-### 🧠 Алгоритмы и задачи
-
-- 🧩 [Решения задач](https://github.com/Anabol1ks/GoLang/tree/main/LeetCode) — LeetCode и CodeWars на Go  
-  **Функционал:** алгоритмы и структуры данных с комментариями к решениям  
-  **Технологии:** Go  
-
-<p align="center">
-  <a href="https://leetcode.com/Gokuson/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Gokuson?theme=dark&extension=activity" alt="LeetCode Stats" />
-  </a>
-</p>
-
----
-
 ### 📊 Статистика и активность
 
 <p align="center">
   <!-- LeetCode -->
   <a href="https://leetcode.com/Gokuson/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Gokuson?theme=dark&extension=activity" alt="LeetCode Stats" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/Gokuson?theme=dark" alt="LeetCode Stats" />
+</a>
   <br><br>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Anabol1ks&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-
-  <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anabol1ks&layout=pie&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
 ---
 
 <p align="center">
